@@ -1,6 +1,6 @@
-#Flower Type Prediction
+Flower Type Prediction
 
-##Overview
+Overview
 This project involves predicting the type of flower based on various features such as petal length, petal width, sepal length, and sepal width. We have implemented three different machine learning models for this task:
 
 Logistic Regression
